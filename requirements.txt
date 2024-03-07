@@ -1,0 +1,6 @@
+zhipuai==2.0.1
+qrcode==7.4.2
+Pillow==10.0.0
+pymupdf==1.23.2
+reportlab==4.1.0
+requests==2.27.1
